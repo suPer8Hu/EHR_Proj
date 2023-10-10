@@ -11,6 +11,7 @@
         <module>EHR_common</module>
         <module>EHR_interface</module>
         <module>EHR_service_provider</module>
+        <module>EHR_backend</module>
     </modules>
     <packaging>pom</packaging>
 
